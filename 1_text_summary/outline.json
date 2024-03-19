@@ -1,0 +1,54 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Introduction to AWS",
+      "description": "A brief overview of AWS and its key services and concepts."
+    },
+    {
+      "number": 2,
+      "title": "AWS Global Infrastructure",
+      "description": "Understanding AWS regions, availability zones and edge locations."
+    },
+    {
+      "number": 3,
+      "title": "AWS EC2",
+      "description": "Provisioning and managing virtual servers using Amazon Elastic Compute Cloud."
+    },
+    {
+      "number": 4,
+      "title": "AWS S3",
+      "description": "Using Amazon Simple Storage Service for cloud object storage."
+    },
+    {
+      "number": 5,
+      "title": "AWS Database Services",
+      "description": "Managed database options like RDS, DynamoDB and Redshift."
+    },
+    {
+      "number": 6,
+      "title": "AWS Networking and Content Delivery",
+      "description": "Services like VPC, CloudFront, Route 53 and API Gateway."
+    },
+    {
+      "number": 7,
+      "title": "AWS Security, Identity & Compliance",
+      "description": "IAM roles, security groups, AWS Organizations and compliance standards."
+    },
+    {
+      "number": 8,
+      "title": "AWS Management Tools",
+      "description": "Monitoring, automation and optimization using CloudWatch, CloudFormation and more."
+    },
+    {
+      "number": 9,
+      "title": "AWS Storage and Archiving",
+      "description": "Long-term data storage with S3 Glacier and Storage Gateway."
+    },
+    {
+      "number": 10,
+      "title": "Getting Started with AWS",
+      "description": "Creating an AWS account, basics of usage billing and the free tier."
+    }
+  ]
+}
