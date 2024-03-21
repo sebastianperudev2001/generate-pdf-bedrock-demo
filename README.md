@@ -52,3 +52,35 @@ Main use cases:
 
 1. Content synthesis
 2. Summarisation
+
+# Phase 1 of GenAI Project
+
+What model to choose?
+
+1. Modality: Embedding, text, image
+2. Size: Number of model parameters. The higher ammount of params, the better
+3. Inference Speed or Latency
+4. Context Window. Max Tokens size. Claude/anthropinic
+5. Pricing. claude most expensive and Titan least
+6. Training Dataset: Internet, code, human feedback
+7. Propriety or Open Source. Prefer open source.
+8. Fine tunable. Should be.
+9. Addititonal features. Multilingual support mainly
+10. Quality of response. Accuracy, toxicity, robustness.
+
+AWS Bedrock Model Evaluation Service:
+
+1. Automatic --> task type, dataset, metriccs
+2. Human --> Bring your own work team. Evaluates up to 2 models using a work team of your choice
+3. Human: AWS managed work team. Hire AWS to carry out the model evaluation task.
+
+3 parameters:
+
+1. Prompt Design
+2. Inference Parameters. Correct format, describe the task well, avoid allucinatiosn
+
+Prompt Engineering Techniques
+
+1. Zero-Shot prompting --> No examples provided
+2. One-shot prompting --> Give one example
+3. Few-Shot prompting
